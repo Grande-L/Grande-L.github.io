@@ -28,7 +28,7 @@ body {
 }
 
 .main-heading {
-  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
   font-weight: 300;
   text-align: center;
   letter-spacing: 9px;
@@ -36,7 +36,7 @@ body {
 }
 
 .sub-heading {
-  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
   font-weight: 300;
   text-align: center;
   letter-spacing: 9px;
