@@ -38,7 +38,7 @@ body {
 .sub-heading {
   font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
   font-weight: 300;
-  text-align: bottom;
+  text-align: center;
   letter-spacing: 9px;
   text-transform: lowercase;
 }
@@ -161,7 +161,7 @@ hr {
   z-index: 2;
   padding: 0;
   margin: auto;
-  height: 40px;
+  height: 95px;
   color: #fff;
 }
 .sub-heading {
@@ -173,7 +173,7 @@ hr {
   z-index: 2;
   padding: 0;
   margin: auto;
-  height: 0px;
+  height: 00px;
   color: #fff;
 }
 
