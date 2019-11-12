@@ -28,11 +28,18 @@ body {
 }
 
 .main-heading {
-  font-family: 'Open sans', sans-serif;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
   font-weight: 300;
   text-align: center;
   letter-spacing: 9px;
   text-transform: uppercase;
+}
+.sub-heading {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-weight:300;
+	text-align: center;
+	letter-spacing: 9px;
+	text-transform: lowercase;
 }
 
 .container > h1 {
