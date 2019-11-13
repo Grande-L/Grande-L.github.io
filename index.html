@@ -120,23 +120,32 @@
 
       <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
-          <form
-  action="https://formspree.io/mdoozjap"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
+          <form class="center-block" action="https://formspree.io/mdoozjap" method="post">
+            <div class="form-group">
+              <label class="sr-only" for="inputFirst">First name</label>
+              <input id="inputFirst" class="form-control" type="text" placeholder="John" required />
+            </div>
+			  <div class="form-group">
+			  <label class="sr-only" for="inputLast">Last name</label>
+				  <input id="inputLast" class="form-control" type="text" placeholder="Doe" required />
+			  </div>
 
-  <!-- your other form fields go here -->
+            <div class="form-group">
+              <label for="inputMail" class="sr-only">Email Address</label>
 
-  <button type="submit">Send</button>
-</form>
+              <input id="inputMail" class="form-control" type="email" placeholder="johndoe@mail.com" required />
+				
+            </div>
+			  
+          <div class="form-group">
+              <label for="inputMessage" class="sr-only">Your Message</label>
+            <textarea id="inputMessage" class="form-control" name="message" cols="30" rows="8" required></textarea>
+            </div>
+
+            <div class="form-group">
+              <button class="btn btn-default center-block" type="submit" value="Hire me">Contact me</button>
+            </div>
+          </form>
         </div>
       </div>
     </div>
