@@ -16,3 +16,5 @@ Performance basics are covered: assets are minified into single CSS and JS files
 
 * Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
 * Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+
+I do not own nor make this template. This is only a template that I used and just did the small tweaks so that it would look more along the lines of what I wanted. I only add this last line to give credit to the original artists and developers that make the beautiful site
