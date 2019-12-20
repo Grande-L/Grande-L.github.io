@@ -956,11 +956,11 @@ body
 }
 .work--lockup .slider--item-image
 {
-	width:150px;
+	width:110px;
 	height:150px;
 	margin:0 auto;
-	border-radius:50%;
-	overflow:hidden
+	/*border-radius:100%;*/
+	overflow:hidden;
 }
 .work--lockup .slider--item-image img
 {
