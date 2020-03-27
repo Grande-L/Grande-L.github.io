@@ -1,0 +1,15 @@
+/*
+Used event css helper class ".on-photo-fit-cover" 
+to style elements when image fit is in cover mode. 
+Rule excluded for last two pages: 16 & 17
+Documentation: http://docs.foliodot.com/selectors#event
+*/
+.on-photo-fit-cover:not(.on-page-16):not(.on-page-17) .project .page-caption,
+.on-photo-fit-cover:not(.on-page-16):not(.on-page-17) .project .ui-button-next,
+.on-photo-fit-cover:not(.on-page-16):not(.on-page-17) .project .ui-button-prev,
+.on-photo-fit-cover:not(.on-page-16):not(.on-page-17) .project .ui-pagination {
+  color: #fff;
+}
+
+@media (max-width: 1174px){
+}
